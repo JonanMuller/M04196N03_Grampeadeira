@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T17:44:30.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-u4n3B7qeTav3zAPnsqw" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:27:35.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n65gIo_4Th8Q5cufmABx" version="20.5.3" type="github">
   <diagram id="5bD0Sm8lKXCdUboGYtR0" name="Página-1">
     <mxGraphModel dx="898" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
             <mxPoint x="770" y="2500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-284" value="11&lt;br&gt;Aguarda confirmação da est. 3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-284" value="10&lt;br&gt;Aguarda confirmação da est. 3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="316" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-288" value="Recebeu&lt;br&gt;peça" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29w5n5ecua9uh5Xct7Cv-285" target="29w5n5ecua9uh5Xct7Cv-287" edge="1">
@@ -391,7 +391,7 @@
         <mxCell id="29w5n5ecua9uh5Xct7Cv-305" value="Enviou" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29w5n5ecua9uh5Xct7Cv-301" target="29w5n5ecua9uh5Xct7Cv-284" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-301" value="10&lt;br&gt;Envia para&amp;nbsp;&lt;br&gt;est. 3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-301" value="9&lt;br&gt;Envia para&amp;nbsp;&lt;br&gt;est. 3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="531" y="2450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-308" value="Esteira 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
