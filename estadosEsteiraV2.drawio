@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T13:02:39.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V7VDe_94qQXHTc_ReT9t" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T14:18:57.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0mjnemEkKc8XjcvtyDN4" version="20.5.3" type="github">
   <diagram id="5bD0Sm8lKXCdUboGYtR0" name="Página-1">
     <mxGraphModel dx="898" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
             <mxPoint x="352.0000000000002" y="1409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-185" value="4&lt;br&gt;Retira a peça do elevador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-185" value="5&lt;br&gt;Retira a peça do elevador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="697" y="1379" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-186" value="Chegou" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="29w5n5ecua9uh5Xct7Cv-188" target="29w5n5ecua9uh5Xct7Cv-174" edge="1">
@@ -204,7 +204,7 @@
             <mxPoint x="379" y="1409" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-188" value="5&lt;br&gt;Transfere para&lt;br&gt;&amp;nbsp;stop 1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-188" value="6&lt;br&gt;Transfere para&lt;br&gt;&amp;nbsp;stop 1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="471" y="1379" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-211" value="Enviou" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="29w5n5ecua9uh5Xct7Cv-193" target="29w5n5ecua9uh5Xct7Cv-210" edge="1">
@@ -287,17 +287,13 @@
         <mxCell id="29w5n5ecua9uh5Xct7Cv-241" value="8&lt;br&gt;Avança&lt;br&gt;empurrador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="717" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-254" value="Recuou" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29w5n5ecua9uh5Xct7Cv-246" target="29w5n5ecua9uh5Xct7Cv-252" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-254" value="Recuou" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="29w5n5ecua9uh5Xct7Cv-246" target="29w5n5ecua9uh5Xct7Cv-255" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="2020" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-246" value="9&lt;br&gt;Recua&lt;br&gt;Empurrador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="84" y="1990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-256" value="Recebeu" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29w5n5ecua9uh5Xct7Cv-252" target="29w5n5ecua9uh5Xct7Cv-255" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-252" value="10&lt;br&gt;Aguarda permissão da est1 para descer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="314" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="29w5n5ecua9uh5Xct7Cv-255" target="29w5n5ecua9uh5Xct7Cv-219" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -314,7 +310,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29w5n5ecua9uh5Xct7Cv-255" value="11&lt;br&gt;Desce elevador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="29w5n5ecua9uh5Xct7Cv-255" value="10&lt;br&gt;Desce elevador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="537" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29w5n5ecua9uh5Xct7Cv-263" value="Esteira 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
