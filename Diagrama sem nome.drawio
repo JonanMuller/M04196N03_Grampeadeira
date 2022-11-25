@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T18:31:14.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cvK8f52S5Emq6y2IGGkU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T18:31:44.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="j4Dk9TSCOWJTq8ICRg83" version="20.6.0" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
     <mxGraphModel dx="898" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8N6I14WKacHsOnJNkDoR-27" value="3&lt;br&gt;Aguardando&lt;br&gt;para subir para&lt;br&gt;esteira" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#ff0000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="820" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8N6I14WKacHsOnJNkDoR-61" value="Recebeu&lt;br&gt;permissão" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8N6I14WKacHsOnJNkDoR-41" target="8N6I14WKacHsOnJNkDoR-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
